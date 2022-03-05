@@ -1,0 +1,60 @@
+2022-03-04 18:43:16,067 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:43:26,747 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:44:23,889 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:44:23,889 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:45:40,255 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:45:40,256 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:45:56,483 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:45:56,484 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:49:28,888 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:49:28,888 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:49:28,888 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:50:40,398 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:50:40,398 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:50:40,398 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:51:02,218 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:02,218 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:02,219 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:51:25,486 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:25,486 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:25,487 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:51:36,333 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:36,334 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:51:36,334 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:51:36,334 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:52:06,102 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:06,102 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:06,103 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:52:06,103 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:52:23,615 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:23,615 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:23,616 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:52:23,616 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:52:36,595 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:36,595 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:36,595 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:52:36,595 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:52:44,062 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:44,062 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:52:44,063 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:52:44,063 INFO custlogger Email id 11198989@gmai.com is in right format
+2022-03-04 18:53:18,020 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:53:18,020 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:53:18,022 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:53:18,022 ERROR custlogger Oops! Email id 11198989_asas*@gmai.com is not in right format!
+2022-03-04 18:53:37,474 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:53:37,475 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:53:37,475 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:53:37,475 ERROR custlogger Oops! Email id 11198989_asas*@gmai.com is not in right format!
+2022-03-04 18:53:58,977 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:53:58,977 ERROR custlogger Msg: [WinError 2] The system cannot find the file specified: 'C:\\Users\\mahii\\Project\\Proj_Python\\input_regexp1.txt'
+Traceback (most recent call last):
+  File "c:\Users\mahii\Project\Proj_Python\validate_insertDB.py", line 14, in chk_inFile_exists
+    if os.path.getsize(my_file) > 0:
+  File "C:\Users\mahii\AppData\Local\Programs\Python\Python39\lib\genericpath.py", line 50, in getsize
+    return os.stat(filename).st_size
+FileNotFoundError: [WinError 2] The system cannot find the file specified: 'C:\\Users\\mahii\\Project\\Proj_Python\\input_regexp1.txt'
+2022-03-04 18:53:58,981 INFO custlogger Email id mahiister@gmail.com is in right format
+2022-03-04 18:53:58,981 ERROR custlogger Oops! Email id 11198989_asas*@gmai.com is not in right format!
+2022-03-04 18:55:51,267 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 18:58:46,167 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt

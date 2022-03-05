@@ -1,0 +1,92 @@
+2022-03-04 14:34:10,899 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 14:34:10,900 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,900 INFO custlogger Emp name Ben Wright is valid and can proceed further.
+2022-03-04 14:34:10,900 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,900 INFO custlogger Emp name Ben Wright 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,900 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,900 INFO custlogger Email id benw123@gmail.com is in right format
+2022-03-04 14:34:10,901 INFO custlogger Emp Ben Wright 's phone number +18324567098 is valid
+2022-03-04 14:34:10,904 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,904 INFO custlogger Emp name John Cooper is valid and can proceed further.
+2022-03-04 14:34:10,904 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,904 INFO custlogger Emp name John Cooper 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,904 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,904 INFO custlogger Email id jcooper@gmail.com is in right format
+2022-03-04 14:34:10,904 INFO custlogger Emp John Cooper 's phone number +17652340987 is valid
+2022-03-04 14:34:10,907 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,907 INFO custlogger Emp name David Slander is valid and can proceed further.
+2022-03-04 14:34:10,907 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,907 INFO custlogger Emp name David Slander 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,907 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,907 INFO custlogger Email id Davesl@gmail.com is in right format
+2022-03-04 14:34:10,907 INFO custlogger Emp David Slander 's phone number +12346730912 is valid
+2022-03-04 14:34:10,910 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,910 INFO custlogger Emp name Sheida Asgar is valid and can proceed further.
+2022-03-04 14:34:10,910 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,910 INFO custlogger Emp name Sheida Asgar 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,910 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,910 INFO custlogger Email id sheidaAgar@gmail.com is in right format
+2022-03-04 14:34:10,910 INFO custlogger Emp Sheida Asgar 's phone number +15450982367 is valid
+2022-03-04 14:34:10,912 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,912 INFO custlogger Emp name Joseph Besky is valid and can proceed further.
+2022-03-04 14:34:10,912 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,912 INFO custlogger Emp name Joseph Besky 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,912 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,912 INFO custlogger Email id JosBesky@gmail.com is in right format
+2022-03-04 14:34:10,912 INFO custlogger Emp Joseph Besky 's phone number +17894514062 is valid
+2022-03-04 14:34:10,915 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:10,915 INFO custlogger Emp name Shawn Dravid is valid and can proceed further.
+2022-03-04 14:34:10,915 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:10,915 INFO custlogger Emp name Shawn Dravid 's salaray field is valid and can proceed further.
+2022-03-04 14:34:10,915 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:10,915 INFO custlogger Email id sh_drav@gmail.com is in right format
+2022-03-04 14:34:10,915 INFO custlogger Emp Shawn Dravid 's phone number +14239873458 is valid
+2022-03-04 14:34:24,957 INFO custlogger The File exists and its not empty C:\Users\mahii\Project\Proj_Python\input_regexp.txt
+2022-03-04 14:34:24,957 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,957 INFO custlogger Emp name Ben Wright is valid and can proceed further.
+2022-03-04 14:34:24,957 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,957 INFO custlogger Emp name Ben Wright 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,957 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,957 INFO custlogger Email id benw123@gmail.com is in right format
+2022-03-04 14:34:24,958 INFO custlogger Emp Ben Wright 's phone number +18324567098 is valid
+2022-03-04 14:34:24,958 ERROR custlogger No duplicate recs cannot be inserted
+2022-03-04 14:34:24,958 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,958 INFO custlogger Emp name John Cooper is valid and can proceed further.
+2022-03-04 14:34:24,958 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,958 INFO custlogger Emp name John Cooper 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,958 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,958 INFO custlogger Email id jcooper@gmail.com is in right format
+2022-03-04 14:34:24,958 INFO custlogger Emp John Cooper 's phone number +17652340987 is valid
+2022-03-04 14:34:24,958 ERROR custlogger No duplicate recs cannot be inserted
+2022-03-04 14:34:24,958 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,958 INFO custlogger Emp name David Slander is valid and can proceed further.
+2022-03-04 14:34:24,958 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,958 INFO custlogger Emp name David Slander 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,958 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,958 INFO custlogger Email id Davesl@gmail.com is in right format
+2022-03-04 14:34:24,958 INFO custlogger Emp David Slander 's phone number +12346730912 is valid
+2022-03-04 14:34:24,958 ERROR custlogger No duplicate recs cannot be inserted
+2022-03-04 14:34:24,958 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,958 INFO custlogger Emp name Sheida Asgar is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,959 INFO custlogger Emp name Sheida Asgar 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,959 INFO custlogger Email id sheidaAgar@gmail.com is in right format
+2022-03-04 14:34:24,959 INFO custlogger Emp Sheida Asgar 's phone number +15450982367 is valid
+2022-03-04 14:34:24,959 ERROR custlogger No duplicate recs cannot be inserted
+2022-03-04 14:34:24,959 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,959 INFO custlogger Emp name Joseph Besky is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,959 INFO custlogger Emp name Joseph Besky 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,959 INFO custlogger Email id JosBesky@gmail.com is in right format
+2022-03-04 14:34:24,959 INFO custlogger Emp Joseph Besky 's phone number +17894514062 is valid
+2022-03-04 14:34:24,959 ERROR custlogger No duplicate recs cannot be inserted
+2022-03-04 14:34:24,959 INFO custlogger Check emp name is valid:
+2022-03-04 14:34:24,959 INFO custlogger Emp name Shawn Dravid is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Validate the Salary field:
+2022-03-04 14:34:24,959 INFO custlogger Emp name Shawn Dravid 's salaray field is valid and can proceed further.
+2022-03-04 14:34:24,959 INFO custlogger Check email id is in correct format:
+2022-03-04 14:34:24,959 INFO custlogger Email id sh_drav@gmail.com is in right format
+2022-03-04 14:34:24,959 INFO custlogger Emp Shawn Dravid 's phone number +14239873458 is valid
+2022-03-04 14:34:24,959 ERROR custlogger No duplicate recs cannot be inserted

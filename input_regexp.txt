@@ -1,0 +1,6 @@
+Ben Wright, E1023, Admin, $5050, benw123@gmail.com, +18324567098, CRT Industries, NJ
+John Cooper, E1001, Supervisor, $5450, jcooper@gmail.com, +17652340987, CRT Industries, TX
+David Slander, E1350, IT Specialist, $9340, Davesl@gmail.com, +12346730912, CRT Industries, TE
+Sheida Asgar, E2391, Asst Supervisor, $4090, sheidaAgar@gmail.com, +15450982367, CRT Industries, FL
+Joseph Besky, E1009, Senior Exec, $12150, JosBesky@gmail.com, +17894514062, CRT Industries, FL
+Shawn Dravid, E3241, Faculty, $3800, sh_drav@gmail.com, +14239873458, CRT Industries, TX

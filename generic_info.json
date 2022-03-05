@@ -1,0 +1,128 @@
+[
+{
+    "firstName": "Rack",
+    "lastName": "Jackon",
+    "gender": "man",
+    "age": 24,
+    "address": {
+      "stnum": "126",
+      "city": "San Jone",
+      "state": "CA",
+      "postalCode": "394221"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "7383627627"
+      }
+    ]
+  },
+  {
+    "firstName": "Minnie",
+    "lastName": "Winster",
+    "gender": "woman",
+    "age": 22,
+    "address": {
+      "stnum": "401",
+      "city": "Sacramento",
+      "state": "CA",
+      "postalCode": "123021"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7654327098"
+      }
+    ]
+  },
+  {
+    "firstName": "Mithra",
+    "lastName": "Vatsav",
+    "gender": "woman",
+    "age": 19,
+    "address": {
+      "stnum": "098",
+      "city": "Hartford",
+      "state": "CT",
+      "postalCode": "988742"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9876512345"
+      }
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Bendict",
+    "gender": "man",
+    "age": 56,
+    "address": {
+      "stnum": "356",
+      "city": "Tallahassee",
+      "state": "FL",
+      "postalCode": "674321"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "8452334322"
+      }
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Shawn",
+    "gender": "man",
+    "age": 38,
+    "address": {
+      "stnum": "9824",
+      "city": "Dover",
+      "state": "DE",
+      "postalCode": "123221"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "8799917627"
+      }
+    ]
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Cox",
+    "gender": "man",
+    "age": 64,
+    "address": {
+      "stnum": "9833",
+      "city": "Springfield",
+      "state": "IL",
+      "postalCode": "94021"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "8324527627"
+      }
+    ]
+  },
+  {
+    "firstName": "Sheela",
+    "lastName": "Ruthford",
+    "gender": "woman",
+    "age": 78,
+    "address": {
+      "stnum": "9811",
+      "city": "Dover",
+      "state": "DE",
+      "postalCode": "394289"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "9876527627"
+      }
+    ]
+  }
+]
