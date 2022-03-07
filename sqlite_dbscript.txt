@@ -1,0 +1,8 @@
+#Create Database in sqlite3 : 
+.open sample.db
+#Show the Databases: 
+.databases
+#Create the Table:
+CREATE TABLE employee (emp_name varchar(50) NOT NULL,emp_id varchar(10) primary key,job_description varchar(50),monthly_sal real,email_id varchar(100), phone_num varchar(20), company_name varchar(150),state_id varchar(5),created_at TEXT DEFAULT CURRENT_TIMESTAMP);
+#Show the table:
+.schema
